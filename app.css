@@ -1,0 +1,18 @@
+body{
+	background: url(https://cloud.techfuck.de/s/fBg8NYgo3B5wPSa/preview) no-repeat center fixed;
+	background-size: cover;
+
+
+}
+
+h1 {
+	color:#f7e6ff;
+}
+h3{
+	color:#f7e6ff;
+}
+
+#centerContent{
+	text-align: center;
+	padding-top: 25%;
+}
